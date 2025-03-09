@@ -13,7 +13,6 @@ The FocusCal frontend is built using React in combination with Lovable.dev, ensu
 Our design principles revolve around usability, accessibility, and responsiveness. The user interface is built to be sleek and intuitive, echoing the aesthetics of leading calendars with a minimalistic and distraction-free experience. We emphasize clear navigational paths so that users can easily switch between login, dashboard, task details, and settings. Accessibility is at the forefront of our design, with features that facilitate text-to-speech, adjustable font sizes, and dyslexia-friendly fonts, ensuring that all users receive an optimal experience. Each design decision is made to ease navigation and enhance productivity, particularly for students facing attention challenges.
 
 ## Styling and Theming
-
 Styling in FocusCal is implemented using modern CSS methodologies to ensure consistency and ease of development. We adopt a systematic approach that may include methodologies like BEM and potentially integrate CSS pre-processors such as SASS or utility-first frameworks like Tailwind CSS to speed up development while maintaining control over the design. The theming system is centered around a well-defined color palette featuring blues and greens to promote focus and calm, while typography and spacing reflect simplicity and clarity. This approach guarantees that whether users switch between light and dark modes or adjust custom settings, the application maintains a cohesive and polished look throughout.
 
 ## Component Structure
